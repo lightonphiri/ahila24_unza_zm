@@ -4,9 +4,9 @@ category: Attend
 layout: default
 ---
 
-# {{ page.title}}
+<!-- # {{ page.title}} -->
 
-We are seeking volunteers for the 27th International Symposium on Electronic Theses and Dissertations (ETD 2024), which will be held as a hybrid conference during November 4 - November 6, 2024.
+<!-- We are seeking volunteers for the 27th International Symposium on Electronic Theses and Dissertations (ETD 2024), which will be held as a hybrid conference during November 4 - November 6, 2024.
 
 Volunteers will participate in the organization of the conference. As ETD 2024 will be held as a hybrid conference for the first time, we do need your help. A volunteer will work for a maximum of 8 hours during the conference.
 
@@ -48,5 +48,10 @@ As the number of places is limited, we will select the volunteers based on:
 
 **Application form**: [link to the form](https://wj.qq.com/s2/6614115/e17d/)
 
-**Application deadline**: **October 1, 2024**
-
+**Application deadline**: **October 1, 2024** -->
+<div class="col-md-8 col-md-offset-2">
+                        <div class="error-v1">
+                            <h3><span>Coming soon...</span></h3><br>
+                            <a class="btn-u btn-bordered" href="{{ site.baseurl }}/">Back Home</a>
+                        </div>
+                    </div>

@@ -1,12 +1,12 @@
 ---
-title: ETD 2024 Volunteers
+title: AHILA 2025 Volunteers
 category: Volunteers
 layout: default
 ---
 
 # {{ page.title }}
 
-ETD 2024 volunteers will be listed here.
+AHILA 2025 volunteers will be listed here.
 
 <hr>
 ## Volunteers (Publicity)
